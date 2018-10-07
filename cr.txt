@@ -1,0 +1,18 @@
+This Chess Game makes use of the Standard chess notation to move pieces.
+To perform any move the following guildlines must be followed :
+The pieces are identified by their initials. These are K (King),
+Q (Queen), R (Rook), B (Bishop), and N (Knight).
+For example, Qg5 means "queen moves to the g-file and the 5th rank"
+(that is, to the square g5). 
+To resolve ambiguities, one more letter or number is added to indicate
+the file or rank from which the piece moved, e.g. Ngf3 means "knight 
+from the g-file moves to the square f3", and R1e2 means "rook on the 
+first rank moves to e2". The letter P for a pawn is not used, so that
+e4 means "pawn moves to the square e4".
+If the piece makes a capture, "x" is inserted before the destination
+square. Thus Bxf3 means "bishop captures on f3". When a pawn makes a
+capture, the file from which the pawn departed is used in place of a 
+piece initial. For example, exd5 (pawn on the e-file captures the 
+piece on d5).
+Castling is indicated by the special notations 0-0 for kingside castling
+and 0-0-0 for queenside castling.

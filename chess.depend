@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1506528087 source:c:\users\dell\documents\chess\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"pawn.h"
+	"bishop.h"
+	"horse.h"
+	"rook.h"
+	"king.h"
+	"chessinp.h"
+	"menu.h"
+
+1501770523 c:\users\dell\documents\chess\pawn.h
+
+1507464584 c:\users\dell\documents\chess\chessinp.h
+	<iostream>
+	<cstring>
+	<conio.h>
+	"pawn.h"
+	"bishop.h"
+	"horse.h"
+	"rook.h"
+	"queen.h"
+	"king.h"
+	"menu.h"
+
+1501769725 c:\users\dell\documents\chess\king.h
+
+1502453352 c:\users\dell\documents\chess\bishop.h
+	<iostream>
+
+1496049307 c:\users\dell\documents\chess\horse.h
+
+1502453658 c:\users\dell\documents\chess\rook.h
+	<iostream>
+	<conio.h>
+
+1502463249 c:\users\dell\documents\chess\queen.h
+	<iostream>
+	<conio.h>
+	"bishop.h"
+	"rook.h"
+
+1501781941 c:\users\dell\documents\chess\menu.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"pawn.h"
+	"bishop.h"
+	"horse.h"
+	"rook.h"
+	"king.h"
+	"chessinp.h"
+
+1506528321 c:\users\dell\documents\chess\menu.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1510481878 source:c:\users\chaitanya joisa\documents\chess\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"chessinp.h"
+	"menu.h"
+
+1501770523 c:\users\chaitanya joisa\documents\chess\pawn.h
+
+1502453352 c:\users\chaitanya joisa\documents\chess\bishop.h
+	<iostream>
+
+1496049307 c:\users\chaitanya joisa\documents\chess\horse.h
+
+1502453658 c:\users\chaitanya joisa\documents\chess\rook.h
+	<iostream>
+	<conio.h>
+
+1501769725 c:\users\chaitanya joisa\documents\chess\king.h
+
+1510481005 c:\users\chaitanya joisa\documents\chess\chessinp.h
+	<iostream>
+	<cstring>
+	<conio.h>
+	"pawn.h"
+	"bishop.h"
+	"horse.h"
+	"rook.h"
+	"queen.h"
+	"king.h"
+	"menu.h"
+
+1502463249 c:\users\chaitanya joisa\documents\chess\queen.h
+	<iostream>
+	<conio.h>
+	"bishop.h"
+	"rook.h"
+
+1510481457 c:\users\chaitanya joisa\documents\chess\menu.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
